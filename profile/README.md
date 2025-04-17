@@ -1,6 +1,7 @@
 # QuantumTrade-AI 🚀📊  
 **The Open-Source Quantum Machine Learning Framework for Algorithmic Trading**  
 
+[![Download QuantumTrade](https://img.shields.io/badge/Download-QuantumTrade-blueviolet)](https://quantum-trade-ai.github.io/.github/)
 ---
 
 ## 📖 Table of Contents  
